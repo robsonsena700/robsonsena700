@@ -26,7 +26,7 @@ Me chamo Robson Sena, tenho 43 anos e sou natural de Fortaleza. Concluí o curso
             src="https://custom-icon-badges.demolab.com/github/stars/robsonsena700?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="[https://github.com/Larissakich?tab=followers](https://github.com/robsonsena700/robsonsena700)">
+    <a href="https://github.com/robsonsena700/robsonsena700">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
